@@ -1,7 +1,7 @@
 # PlainTextResultsParser for [FrameWorkBenchmark](https://github.com/TechEmpower/FrameworkBenchmarks)
 
 ## Summary
-Provide a plaintext results FrameWorkBenchmark json parser based on python [prettytable](https://pypi.org/project/prettytable/), 
+Provide a plaintext results [FrameWorkBenchmark](https://github.com/TechEmpower/FrameworkBenchmarks) json parser based on python [prettytable](https://pypi.org/project/prettytable/), 
 Pros:
 - No need to copy files from server
 - Easy to visualize data instantly and automatically
